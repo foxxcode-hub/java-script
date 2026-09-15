@@ -12,4 +12,4 @@ function greet (name)
 }
 greet ("Rahul");
 greet("priya");
-greet("parthona");
+greet("anjali");
